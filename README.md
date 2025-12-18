@@ -188,7 +188,9 @@ Scene-Classification-Project/
 | **CNN4x4 (Tuned)**      | 93.9          | 85.8        | **88.7**     |
 
 CNN models demonstrate significantly improved performance over classical ML approaches, due to their capability of automatic and hierarchical feature extraction, providing robustness to variability in the scene images.
+
 ---
 
 Feel free to explore the notebooks and trained models to replicate our results and further extend the work!
+
 
